@@ -62,3 +62,13 @@ function generatePassword() {
 
 // Get references to the #generate element
 const generateBtn = document.getElementById('generate');
+
+// Write password to the #password input
+function writePassword() {
+  const password = generatePassword();
+  const passwordText = document.getElementById('password');
+
+  if (password) {
+    passwordText.value = password;
+  }
+}
