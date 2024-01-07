@@ -31,3 +31,9 @@ function getPasswordOptions() {
       includeUppercase
     };
   }
+
+  // Function to get a random element from an array
+function getRandom(arr) {
+  const randomIndex = Math.floor(Math.random() * arr.length);
+  return arr[randomIndex];
+}

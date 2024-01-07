@@ -1,3 +1,3 @@
-# Employee Random Password Generator
+# 📐  Employee Random Password Generator
 
 ## Overview
