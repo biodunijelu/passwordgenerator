@@ -59,3 +59,6 @@ function generatePassword() {
 
   return password;
 }
+
+// Get references to the #generate element
+const generateBtn = document.getElementById('generate');
