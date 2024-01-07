@@ -37,3 +37,25 @@ function getRandom(arr) {
   const randomIndex = Math.floor(Math.random() * arr.length);
   return arr[randomIndex];
 }
+
+// Function to generate password with user input
+function generatePassword() {
+  const options = getPasswordOptions();
+
+  if (!options) {
+    return ''; // User canceled or provided invalid options
+  }
+
+  let characters = [];
+  if (options.includeSpecial) characters = characters.concat(specialCharacters);
+  if (options.includeNumeric) characters = characters.concat(numericCharacters);
+  if (options.includeLowercase) characters = characters.concat(lowerCasedCharacters);
+  if (options.includeUppercase) characters = characters.concat(upperCasedCharacters);
+
+  let password = '';
+  for (let i = 0; i < options.length; i++) {
+    password += getRandom(characters);
+  }
+
+  return password;
+}
