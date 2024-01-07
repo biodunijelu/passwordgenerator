@@ -6,7 +6,6 @@ A simple and interactive web application to generate secure passwords based on u
 
 - [Description](#description)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -26,3 +25,22 @@ This web application allows users to generate strong and secure passwords by cus
 * Responsive design for a seamless experience across different devices.
 
 * User-friendly interface.
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/password-generator.git
+
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd password-generator
+
+    ```
+
+3. Open index.html in your web browser.
+
