@@ -23,5 +23,11 @@ function getPasswordOptions() {
       return null;
     }
   
-  
+    return {
+      length,
+      includeSpecial,
+      includeNumeric,
+      includeLowercase,
+      includeUppercase
+    };
   }
