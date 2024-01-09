@@ -64,4 +64,6 @@ Screenshot (https://github.com/biodunijelu/passwordgenerator/blob/main/images/mo
 Deployment: `Deploy url [https://biodunijelu.github.io/passwordgenerator/]`
 
 
+## License
 
+This project is licensed under the [bootcampspot]. 
