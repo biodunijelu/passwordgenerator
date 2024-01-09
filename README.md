@@ -58,3 +58,10 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 ## Mockup Result
 
 Screenshot (https://github.com/biodunijelu/passwordgenerator/blob/main/images/mockup_design.png)
+
+## Deployment
+
+Deployment: `Deploy url [https://biodunijelu.github.io/passwordgenerator/]`
+
+
+
