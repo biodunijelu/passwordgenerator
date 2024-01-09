@@ -50,3 +50,7 @@ This web application allows users to generate strong and secure passwords by cus
 2. Click the "Generate Password" button.
 3. Follow the prompts to customize the password based on your preferences.
 4. The generated password will be displayed in the designated area.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request
