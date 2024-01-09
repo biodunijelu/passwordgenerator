@@ -44,3 +44,9 @@ This web application allows users to generate strong and secure passwords by cus
 
 3. Open index.html in your web browser.
 
+## Usage
+
+1. Open the web application in your browser.
+2. Click the "Generate Password" button.
+3. Follow the prompts to customize the password based on your preferences.
+4. The generated password will be displayed in the designated area.
