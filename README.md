@@ -54,3 +54,7 @@ This web application allows users to generate strong and secure passwords by cus
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request
+
+## Mockup Result
+
+Screenshot (https://github.com/biodunijelu/passwordgenerator/blob/main/images/mockup_design.png)
